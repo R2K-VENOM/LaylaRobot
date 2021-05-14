@@ -1,7 +1,7 @@
 [![Deploy](https://telegra.ph/file/11ee33659e7cabb036ce4.jpg)](https://heroku.com/deploy?template=https://github.com/UltroidVenom/LaylaRobot.git)
 # Layla Robot
 
-# Get STRING_NAME from here:
+Get STRING SESSION FROM HERE:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://generatestringsession.sandeep1709.repl.run)
 
