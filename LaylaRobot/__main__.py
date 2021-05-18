@@ -196,16 +196,16 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add ʋɛռօʍ ɮօȶ to your group",
+                            text="Add ѵєησм яσвσт to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
-                             text="ֆʊքքօʀȶ ɢʀօʊք",
+                             text="sυρρσят gяσυρ",
                              url=f"https://t.me/CrackMonkeyChats"),
                          InlineKeyboardButton(
-                             text="ʍʏ ʍǟֆȶɛʀ",
+                             text="мy σωηєя",
                              url="https://t.me/R2K_VENOM")
                      ]]))
     else:
