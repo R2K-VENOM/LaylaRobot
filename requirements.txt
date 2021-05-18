@@ -44,5 +44,3 @@ validators
 gtts
 nekos.py
 TgCrypto
-Pillow
-opencv-python
