@@ -75,7 +75,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/d934e109f2a7a7a6211dc.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/5fd746096fedd6fa997f8.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Supporting him; [Venom](t.me/R2K_VENOM)"""
@@ -196,14 +196,14 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add ѵєησм яσвσт to your group",
+                            text="α∂∂ 𓆩𝙑𝙀𝙉𝙊𝙈✘𝙍𝙊𝘽𝙊𝙏𓆪 тσ yσυя gяσυρ",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
                              text="sυρρσят gяσυρ",
-                             url=f"https://t.me/CrackMonkeyChats"),
+                             url=f"https://t.me/VENOM_KA_ADDA"),
                          InlineKeyboardButton(
                              text="мy σωηєя",
                              url="https://t.me/R2K_VENOM")
