@@ -1,7 +1,7 @@
 from telethon import events, Button, client
 from LaylaRobot import DEV_USERS
 
-@BotzHub.on(
+@bot.on(
     events.NewMessage(pattern="^/skem ?(.*)")
 )
 async def _(event):
